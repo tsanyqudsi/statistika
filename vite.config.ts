@@ -6,6 +6,11 @@ import { ViteAliases as aliases } from 'vite-aliases';
 export default defineConfig({
   plugins: [
     react(),
-    aliases({ useTypescript: true, useConfig: true, depth: 2 }),
+    aliases({
+      useTypescript: true,
+      useConfig: true,
+      depth: 2,
+      useRelativePaths: true,
+    }),
   ],
 });

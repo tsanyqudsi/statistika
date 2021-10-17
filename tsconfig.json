@@ -21,25 +21,25 @@
         "jsx": "react-jsx",
         "paths": {
             "@assets/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/assets/*"
+                "./src/assets/*"
             ],
             "@layouts/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/layouts/*"
+                "./src/layouts/*"
             ],
             "@images/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/assets/images/*"
+                "./src/assets/images/*"
             ],
             "@styles/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/assets/styles/*"
+                "./src/assets/styles/*"
             ],
             "@/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/*"
+                "./src/*"
             ],
             "@libs/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/libs/*"
+                "./src/libs/*"
             ],
             "@components/*": [
-                "/home/tsanyqudsi/Documents/unugha/statistika/src/components/*"
+                "./src/components/*"
             ]
         }
     },
